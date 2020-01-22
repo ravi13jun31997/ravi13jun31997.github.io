@@ -397,10 +397,10 @@ h3{
 
 /* footer */
 .footer{
-  display: inline;
+
   text-align: center;
   background-color: #916dd5;
-
+  padding:15px;
 
 }
 .socialMedia{
